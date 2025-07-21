@@ -561,6 +561,12 @@ def main():
             4. **Latest chats appear at the top**  
             5. **Download as PDF or DOC**
             """)
+            st.markdown("""
+    <hr style="margin-top: 3rem; margin-bottom: 1rem; border: none; height: 1px; background: #ccc;" />
+    <div style='text-align: center; color: #6b7280; font-size: 0.9rem;'>
+        © 2025 <strong>Curiosity AI</strong> | Built for Curiosity by Noor
+    </div>
+    """, unsafe_allow_html=True)
 
 # Run the app
 if __name__ == "__main__":
