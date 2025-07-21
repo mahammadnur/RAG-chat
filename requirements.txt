@@ -9,3 +9,9 @@ langchain-google-genai
 langchain-community
 fpdf
 python-docx
+# Core
+streamlit
+python-dotenv
+faiss-cpu
+tiktoken
+numpy
